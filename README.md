@@ -6,7 +6,7 @@ Claude Code agent skills for the EG BrandSync design system.
 
 ### brandsync-design-system
 
-Gives AI agents full knowledge of the EG BrandSync design system — color tokens, semantic mappings, typography scales, and WCAG accessibility data.
+Gives AI agents full knowledge of the EG BrandSync design system - color tokens, semantic mappings, typography scales, and WCAG accessibility data.
 
 **Install:**
 
